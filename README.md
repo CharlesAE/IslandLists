@@ -1,6 +1,6 @@
 # IslandLists
 
-![IslandLists](https://github.com/CharlesAE/IslandLists/raw/master/islandlist.gif "CollapsingToolbarLayout")
+![IslandLists](https://github.com/CharlesAE/IslandLists/raw/master/Islandlists.gif "CollapsingToolbarLayout")
 
 
 Quick demonstration of Android's: 
